@@ -1,3 +1,3 @@
 ## Hi there 👋
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/af28a460-b36d-43bb-980d-8a4abcecec16" />
 
-https://camo.githubusercontent.com/ef3bc16e2b42704c78c8250fc048fe0ddaf7db6d01885e1ab1b5225e9038d40a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697375616c73747564696f
