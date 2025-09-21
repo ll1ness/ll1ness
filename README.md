@@ -1,7 +1,8 @@
-<h1 align="center">✌️ ll1ness \ medium experience coder </h1>
+<h1 align="center">✌️ ll1ness \ Средний кодер </h1>
 
 ###
 
+<h1 align="center"> Языки программирования </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -13,6 +14,7 @@
 
 ###
 
+<h1 align="center"> Базы данных </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -26,6 +28,7 @@
 
 ###
 
+<h1 align="center"> Рабочий софт </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
