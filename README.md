@@ -1,4 +1,4 @@
-<h3 align="center">✌️ lh3ness \ Средний кодер </h3>
+<h3 align="center">✌️ ll1ness \ Средний кодер </h3>
 
 ###
 
@@ -41,13 +41,13 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lh3ness&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=ll1ness&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lh3ness&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=ll1ness&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
 ###
