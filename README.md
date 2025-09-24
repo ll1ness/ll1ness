@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center"> Языки программирования </h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
         <img width=h32" />
@@ -12,7 +11,6 @@
         <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
         <img width=h32" />
       </div>
-      <h3 align="center"> Базы данных </h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
         <img width=h32" />
@@ -23,7 +21,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
         <img width=h32" />
       </div>
-      <h3 align="center"> Рабочий софт </h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
         <img width=h32" />
