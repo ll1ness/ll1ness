@@ -1,59 +1,40 @@
-<h3 align="center">✌️ ll1ness \ Средний кодер </h3>
+**ll1ness** - Средний кодер
+- 🔭 Сейчас работаю над проектом "CuboWerk", в котором можно скачивать сборки майнкрафт в один клик
+- 🌱 Сейчас обучаюсь в школе. Мой профиль - Математика и Информатика
+- 🤔 Ищу помощи с написанием кода на PHP.
+- 📫 Как со мной связаться: 
+- Telegram: @ll1ness
 
-<table>
+- [Мой сайт](https://avirsdk.gitbook.io/viraxis-soft/)
+
+                                                Кодинг:
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="python logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+        <img src="https://skillicons.dev/icons?i=c" height="40" alt="redux logo"  />
+        <img width=h32" />
+        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+        <img width=h32" />
+        <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="redux logo"  />
         <img width=h32" />
       </div>
+
+                                                  Софт:
+<tr>
+    <td valign="top" width="50%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+        <img src="https://skillicons.dev/icons?i=blender" height="40" alt="python logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="javascript logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+        <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="redux logo"  />
         <img width=h32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+        <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="python logo"  />
         <img width=h32" />
-      </div>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo"  />
-        <img width=h32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="redux logo"  />
         <img width=h32" />
       </div>
-    </td>
-    <td valign="top" width="75%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ll1ness&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h1 align="center">✅Мой сайт: https://avirsdk.gitbook.io/viraxis-soft/ </h1>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ll1ness&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
