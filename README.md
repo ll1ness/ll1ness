@@ -5,7 +5,7 @@
 - 📫 Как со мной связаться: 
 - Telegram: @ll1ness
 
-- [Мой сайт](https://avirsdk.gitbook.io/viraxis-soft/)
+- [Мой сайт](https://viraxis.tilda.ws/)
   <tr>
     <td valign="left" width="50%">
       <div align="left">
