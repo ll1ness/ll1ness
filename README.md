@@ -34,3 +34,7 @@
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="redux logo"  />
         <img width=h32" />
       </div>
+
+<img width="500" height="240" alt="изображение" src="https://github.com/user-attachments/assets/16309479-8250-42f3-8604-cda7e6fb91c9" /> <img width="500" height="240" alt="изображение" src="https://github.com/user-attachments/assets/674de24e-3665-426b-b8d1-a05132c1694e" />
+<img width="1000" height="360" alt="изображение" src="https://github.com/user-attachments/assets/903f9cbb-bd0e-4d9f-a954-fd05fa645dbd" />
+
