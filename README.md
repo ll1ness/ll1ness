@@ -48,26 +48,4 @@ Full-stack разработчик клиентских приложений дл
       </div>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img width="500" height="240" src="https://github.com/user-attachments/assets/16309479-8250-42f3-8604-cda7e6fb91c9" alt="изображение 1" />
-        <img width="500" height="240" src="https://github.com/user-attachments/assets/674de24e-3665-426b-b8d1-a05132c1694e" alt="изображение 2" />
-      </div>
-    </td>
-  </tr>
-    <tr>
-   <td valign="top" width="50%">
-      <div align="center">
-       <img width="330" height="480" src="https://github.com/user-attachments/assets/8c782e05-7198-44bb-8170-51b056cbfe9b" alt="изображение 3" />
-      </div>
-    </td>
-  </tr>
-    <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img width="1000" height="360" src="https://github.com/user-attachments/assets/903f9cbb-bd0e-4d9f-a954-fd05fa645dbd" alt="изображение 4" />
-      </div>
-    </td>
-  </tr>
 </table>
