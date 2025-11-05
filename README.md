@@ -2,7 +2,7 @@
 
 Full-stack разработчик клиентских приложений для Windows и Linux.  Создаю эффективные, удобные и масштабируемые решения, ориентированные на пользователя.
 
-Также являюсь владельцем ViraXis (ВО) - альянса, специализирующегося на кодинге, дизайне и разработке приложений для Windows\Linux.
+Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), своего сайта с моим портфолио работ, скажем так )
 
 **Навыки:**
 
@@ -37,7 +37,7 @@ Full-stack разработчик клиентских приложений дл
       <div align="center">
         <img src="https://skillicons.dev/icons?i=blender" height="40" alt="python logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="javascript logo"  />
+        <img src="https://skillicons.dev/icons?i=visualcode" height="40" alt="javascript logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="redux logo"  />
         <img width=h32" />
