@@ -13,7 +13,7 @@ Full-stack разработчик клиентских приложений дл
 **Связь:**
 
 *   Telegram: @ll1ness
-*   [Мой сайт](https://viraxis.hopto.org)
+*   [Мой сайт](https://viraxis.hopto.org) (Временно недоступен, идёт переработка кейса)
 
 ---
 
