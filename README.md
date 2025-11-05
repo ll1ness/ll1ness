@@ -37,7 +37,7 @@ Full-stack разработчик клиентских приложений дл
       <div align="center">
         <img src="https://skillicons.dev/icons?i=blender" height="40" alt="python logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=visualcode" height="40" alt="javascript logo"  />
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="javascript logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="redux logo"  />
         <img width=h32" />
