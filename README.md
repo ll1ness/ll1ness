@@ -12,7 +12,7 @@ Full-stack разработчик клиентских приложений дл
 
 **Связь:**
 *   🇷🇺 Российская почта: lam1ksss@list.ru
-*   🇺🇦🇺🇸🇰🇿🇧🇾🇨🇳 Иностранная почта: majezxctoy6799@outlook.com
+*   🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Иностранная почта: majezxctoy6799@outlook.com
 *   Telegram: @ll1ness
 *   [Мой сайт](https://viraxis.hopto.org)
 
