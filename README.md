@@ -33,29 +33,41 @@ Full-stack разработчик клиентских приложений дл
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=php" height="40" alt="python logo"  />
+        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=c" height="40" alt="redux logo"  />
-        <img width=h32" />
+        <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+        <img width=h32" />        
+        <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+        <img width=h32" />        
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+        <img width=h32" />        
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+        <img width=h32" />        
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+        <img width=h32" />        
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-        <img width=h32" />
+        <img width=h32" />        
+        <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+        <img width=h32" />        
       </div>
     </td>
   </tr>
     <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=blender" height="40" alt="python logo"  />
+        <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="javascript logo"  />
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="redux logo"  />
+        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="python logo"  />
+        <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="redux logo"  />
+        <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+        <img width=h32" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="GIT logo"  />
+        <img width=h32" />
+        <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD logo"  />
         <img width=h32" />
       </div>
     </td>
