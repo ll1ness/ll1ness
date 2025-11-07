@@ -54,7 +54,7 @@ Full-stack разработчик клиентских приложений дл
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
+        <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
         <img width=h32" />
