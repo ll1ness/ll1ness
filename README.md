@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 <a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://gitverse.ru/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitVerse-%23800080.svg?&style=flat-square&logo=gitverse&logoColor=white" alt="GitHub"></a>
 
 ### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis' 
 
