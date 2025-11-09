@@ -16,7 +16,7 @@
 ## Навыки:
 
 *   Frontend: PHP, JavaScript, работаю в PHPstorm, DevelWire, Eclipse и т.д.
-*   Backend: PHP, Python, работаю в DevelWire, PyCharm, PHPstorm
+*   Backend: PHP, Python, работаю в DevelWire, PyCharm, Visual Code.
 *   Разработка клиентских приложений (Windows/Linux) соответственно.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"    />
