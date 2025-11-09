@@ -4,7 +4,9 @@
 <a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-### ll1ness - Full-stack solo developer | Owner platform 'ViraXis' [Russian Version](https://github.com/ll1ness/ll1ness/blob/main/READMEru.md)
+[Russian Version](https://github.com/ll1ness/ll1ness/blob/main/READMEru.md)
+
+### ll1ness - Full-stack solo developer | Owner platform 'ViraXis' 
 
 Hello! I'm ll1ness. I am 14 years old and I like to develop different software.
 I am a Full-stack developer of client applications for Windows and Linux. I create effective, convenient and scalable solutions that are user-oriented solutions.
