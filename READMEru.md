@@ -4,20 +4,29 @@
 <a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis' [English]( 
+### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis'
 
-Привет! Я - ll1ness. Мне 14 лет и я люблю заниматься разработкой разного софта.
+Привет! Я - ll1ness. Мне 14 лет и я люблю заниматься разработкой разного софта. Родился 12.10.2011 в России, разговариваю на русском и немного на Английском. 
 Я Full-stack разработчик клиентских приложений для Windows и Linux. Создаю эффективные, удобные и масштабируемые решения, ориентированные на пользователя.
+Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), на которой вы можете внести свой вклад в разработку моих софтов, находить и просто скачивать подходящие под вашу платформу софты и на которой есть туториалы 'Как стать программистом'(об этом подробнее сказано на странице платформы).
 
-Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), своего сайта с моим портфолио работ, а также на сайте можно найти туториал для начинающих кодеров и юзеров GitHub и инструменты для проффесионалов, например, в планах создать свой IDE 'DevelWire' для программирования на PHP.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+### Soft skills
+ 🎨Хорошо умею креативничать с кодом. Это значит, что я креативно придумываю систему алгоритма кода, его грамотного написания и прочего. Вы можете проверить это, просмотрев исходники программы из репозитория, где в README.md отмечен виджет 'Solo Development'.
+
+👥 Я хорошо работаю в команде. Это значит, что я умею грамотно возлагать свои мысли и договариваться с участниками разработки.
+
+📚 Хорошо приспособлен к обучению и развитию, проактивен, способен адаптироваться почти под любую сферу, настойчивый - постоянно ищущий новые технологии для своего кода, чтобы его 'завести'.
+
+### Hard skills
+👅 Знаю достаточно языков программирования и умею читать их и редактировать. <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="24" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo"  />
+
+💾 Также знаю алгоритмы данных и их структуры, что помогает эффективно писать код и создавать эффективные решения для кода и проекта в целом.
+
+🔨 И, разумеется, ⛏️ умение работать с разными инструментами и их быстрое освоение.
 
 ## Навыки:
-
-*   Frontend: PHP, JavaScript, работаю в PHPstorm, DevelWire, Eclipse и т.д.
-*   Backend: PHP, Python, работаю в DevelWire, PyCharm, Visual Code.
-*   Разработка клиентских приложений (Windows/Linux) соответственно.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"    />
 
@@ -49,8 +58,6 @@
     <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-        <img width=h32" />
         <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo"  />
@@ -59,7 +66,7 @@
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
         <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD logo"  />
+        <img src="https://skillicons.dev/icons?i=electron" height="40" alt="Electron logo"  />
         <img width=h32" />
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="GIT logo"  />
         <img width=h32" />
