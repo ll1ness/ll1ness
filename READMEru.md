@@ -4,11 +4,12 @@
 <a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis' 
+### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis' [English]( 
 
-Full-stack разработчик клиентских приложений для Windows и Linux.  Создаю эффективные, удобные и масштабируемые решения, ориентированные на пользователя.
+Привет! Я - ll1ness. Мне 14 лет и я люблю заниматься разработкой разного софта.
+Я Full-stack разработчик клиентских приложений для Windows и Linux. Создаю эффективные, удобные и масштабируемые решения, ориентированные на пользователя.
 
-Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), своего сайта с моим портфолио работ, а также на сайте можно найти туториал для начинающих кодеров и юзеров GitHub. Также на сайте можно найти инструменты для проффесионалов, например, в планах создать свой IDE 'Avir' для программирования на PHP.
+Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), своего сайта с моим портфолио работ, а также на сайте можно найти туториал для начинающих кодеров и юзеров GitHub и инструменты для проффесионалов, например, в планах создать свой IDE 'DevelWire' для программирования на PHP.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
