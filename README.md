@@ -19,7 +19,7 @@ I am also the owner of the platform [ViraXis Platfrom](https://viraxis.hopto.org
 ## Skills:
 
 * Frontend: PHP, JavaScript, I work in PHPstorm, DevelWire, Eclipse, etc.
-* Backend: PHP, Python, I work in DevelWire, PyCharm, PHPstorm
+* Backend: PHP, Python, I work in DevelWire, PyCharm, Visual Code.
 * Development of client applications (Windows/Linux) respectively.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"    />
