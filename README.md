@@ -4,29 +4,29 @@
 <a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-### ll1ness - Full-Stack разработчик | Владелец платформы 'ViraXis'
+### ll1ness - Full-Stack developer | Owner of the ViraXis platform
 
-Привет! Я - ll1ness. Мне 14 лет и я люблю заниматься разработкой разного софта. Родился 12.10.2011 в России, разговариваю на русском и немного на Английском. 
-Я Full-stack разработчик клиентских приложений для Windows и Linux. Создаю эффективные, удобные и масштабируемые решения, ориентированные на пользователя.
-Также являюсь владельцем платформы [ViraXis Platfrom](https://viraxis.hopto.org/), на которой вы можете внести свой вклад в разработку моих софтов, находить и просто скачивать подходящие под вашу платформу софты и на которой есть туториалы 'Как стать программистом'(об этом подробнее сказано на странице платформы).
+Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia🇷🇺, I speak Russian🇷🇺 and a little English🇺🇸. 
+I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
+I am also the owner of the [ViraXis Platfrom](https://viraxis.hopto.org), where you can contribute to the development of my software, find and simply download software suitable for your platform, and which has tutorials on How to become a programmer (this is described in more detail on the platform page).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
 
 ### Soft skills
- 🎨Хорошо умею креативничать с кодом. Это значит, что я креативно придумываю систему алгоритма кода, его грамотного написания и прочего. Вы можете проверить это, просмотрев исходники программы из репозитория, где в README.md отмечен виджет 'Solo Development'.
+🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
 
-👥 Я хорошо работаю в команде. Это значит, что я умею грамотно возлагать свои мысли и договариваться с участниками разработки.
+👥 Work well in a team. This means that I am able to express my thoughts competently and negotiate with the development participants.
 
-📚 Хорошо приспособлен к обучению и развитию, проактивен, способен адаптироваться почти под любую сферу, настойчивый - постоянно ищущий новые технологии для своего кода, чтобы его 'завести'.
+📚 He is well adapted to learning and development, proactive, able to adapt to almost any field, persistent - constantly looking for new technologies for his code in order to "wind it up".
 
 ### Hard skills
-👅 Знаю достаточно языков программирования и умею читать их и редактировать. <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="24" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo"  />
+👅 Know enough programming languages and can read and edit them. <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="24" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo"  />
 
-💾 Также знаю алгоритмы данных и их структуры, что помогает эффективно писать код и создавать эффективные решения для кода и проекта в целом.
+💾 Also know data algorithms and their structures, which helps me write code efficiently and create effective solutions for the code and the project as a whole.
 
-🔨 И, разумеется, ⛏️ умение работать с разными инструментами и их быстрое освоение.
+🔨 And, of course, the ability to work with different tools and learn them quickly.
 
-## Навыки:
+## Skills:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"    />
 
@@ -75,10 +75,10 @@
   </tr>
 </table> 
 
-## Связь:
-*   🇷🇺 Российская почта: lam1ksss@list.ru
-*   🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Иностранная почта: majezxctoy6799@outlook.com
+## Connection:
+* 🇷🇺 Russian post: lam1ksss@list.ru
+*   🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
 *   Telegram: @ll1ness
-*   [Мой сайт](https://viraxis.hopto.org)
+*   [My website](https://viraxis.hopto.org )
 ---
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt=platane-github-snake />
