@@ -86,4 +86,3 @@ I am also the owner of the [ViraXis Platfrom](https://viraxis.hopto.org), where 
 *   Telegram: @ll1ness
 *   [My website](https://viraxis.hopto.org )
 ---
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt=platane-github-snake />
