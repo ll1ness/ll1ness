@@ -5,6 +5,10 @@
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitverse.ru/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitVerse-%23a020f0.svg?&style=flat-square&logo=github&logoColor=white" alt="GitVerse"></a>
 
+```
+  NOTICE!: I don't have computer at the moment. I lost OS. How? Simple. Virus "0x" delete my linux and windows, but they stay on different disks :/
+```
+
 ### ll1ness - Full-Stack developer | Owner of the ViraXis platform
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia🇷🇺, I speak Russian🇷🇺 and a little English🇺🇸. 
