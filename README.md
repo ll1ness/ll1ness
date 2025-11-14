@@ -6,7 +6,9 @@
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitverse.ru/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitVerse-%23a020f0.svg?&style=flat-square&logo=github&logoColor=white" alt="GitVerse"></a>
 
-### ll1ness - Full-Stack developer | Owner of the ViraXis platform
+<img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" />
+
+#### Full-Stack developer | Owner of the ViraXis platform
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia🇷🇺, I speak Russian🇷🇺 and a little English🇺🇸. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
