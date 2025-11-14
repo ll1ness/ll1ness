@@ -10,7 +10,7 @@
 
 #### Full-Stack developer | Owner of the ViraXis platform
 
-Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia🇷🇺, I speak Russian🇷🇺 and a little English🇺🇸. 
+Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 I am also the owner of the [ViraXis Platfrom](https://viraxis.hopto.org), where you can contribute to the development of my software, find and simply download software suitable for your platform, and which has tutorials on How to become a programmer (this is described in more detail on the platform page).
 
