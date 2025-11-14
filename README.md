@@ -6,7 +6,7 @@
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitverse.ru/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitVerse-%23a020f0.svg?&style=flat-square&logo=github&logoColor=white" alt="GitVerse"></a>
 
-<img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" />
+<img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" />
 
 #### Full-Stack developer | Owner of the ViraXis platform
 
