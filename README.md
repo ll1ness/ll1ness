@@ -8,7 +8,7 @@
 
 <img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" />
 
-#### Full-Stack developer | Owner of the ViraXis platform
+#### Full-Stack developer | Videcoder
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
@@ -29,58 +29,23 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
-## Skills:
+### Skills:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"    />
+#### Languages
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-        <img width=h32" />       
-        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-        <img width=h32" />  
-        <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-        <img width=h32" />   
-        <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
-        <img width=h32" />        
-        <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-        <img width=h32" />   
-        <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-        <img width=h32" />  
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-        <img width=h32" /> 
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-        <img width=h32" />     
-      </div>
-    </td>
-  </tr>
-    <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=electron" height="40" alt="Electron logo"  />
-        <img width=h32" />
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="GIT logo"  />
-        <img width=h32" />
-      </div>
-    </td>
-  </tr>
-</table> 
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  /> <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  /> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 
-## Connection:
+#### Frameworks
+
+<img src="assets/avir-logo.jpg" height="40" alt="avir-logo"  /> <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="assets/gigacode-logo.png/" height="40" alt="gigacode ai"    /> 
+
+######
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="most used languages"    />
+
+### Connection:
 * 🇷🇺 Russian post: lam1ksss@list.ru
-*   🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
-*   Telegram: @ll1ness
-*   [My website](https://viraxis.hopto.org )
+* 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
+*   Telegram: [@ll1ness](https://t.me/ll1ness)
+*   [My website](https://ll1ness.hopto.org)
 ---
