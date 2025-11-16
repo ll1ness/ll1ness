@@ -12,7 +12,6 @@
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
-I am also the owner of the [ViraXis Platfrom](https://viraxis.hopto.org), where you can contribute to the development of my software, find and simply download software suitable for your platform, and which has tutorials on How to become a programmer (this is described in more detail on the platform page).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
 
