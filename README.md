@@ -27,6 +27,8 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 💾 Also know data algorithms and their structures, which helps me write code efficiently and create effective solutions for the code and the project as a whole.
 
+🤖 Programming with AI and sometimes programming manually, and don't see nothing bad - programming with AI.
+
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
 #### Languages
