@@ -11,7 +11,7 @@
 #### Full-Stack developer | Videcoder
 
 [!NOTICE]
- > Now i working on project ['Avir IDE'](https://github.com/avir-ide-jphp)
+ > Now i working on project ['Avir IDE'](https://github.com/avir-jphp)
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
