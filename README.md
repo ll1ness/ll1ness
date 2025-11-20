@@ -8,15 +8,19 @@
 
 <img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" />
 
-#### Full-Stack developer | Videcoder
+# Full-Stack developer | Videcoder - Maksim Ryzhikov
 
 > [!NOTE]
 > Now i working on project ['Avir IDE'](https://github.com/avir-jphp)
+
+### Fast about me
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
+
+## About me
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
@@ -52,3 +56,5 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 *   Telegram: [@ll1ness](https://t.me/ll1ness)
 *   [My website](https://ll1ness.hopto.org)
 ---
+
+###### Thanks for visiting my profile <3 
