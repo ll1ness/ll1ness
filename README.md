@@ -11,7 +11,7 @@
 # Full-Stack developer | Videcoder - Maksim Ryzhikov
 
 > [!NOTE]
-> Now i working on project ['Avir IDE'](https://github.com/avir-jphp)
+> Now i working on project '[CuboWerk](https://github.com/avir-jphp)'
 
 ### Fast about me
 
@@ -30,7 +30,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 📚 He is well adapted to learning and development, proactive, able to adapt to almost any field, persistent - constantly looking for new technologies for his code in order to "wind it up".
 
 ### Hard skills
-👅 Know enough programming languages and can read and edit them. <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="24" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo"  />
+👅 Know enough programming languages. <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="24" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=c" height="24" alt="c logo"  />
 
 💾 Also know data algorithms and their structures, which helps me write code efficiently and create effective solutions for the code and the project as a whole.
 
