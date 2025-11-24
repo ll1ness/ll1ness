@@ -44,7 +44,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 #### Frameworks
 
-<img src="assets/avir-logo.jpg" height="40" alt="avir-logo"  /> <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> 
+<img src="assets/avir-logo.jpg" height="40" alt="avir-logo"  /> <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/ll1ness/ll1ness/blob/main/assets/Cursor_logo.png?raw=true" height="40" alt="cursor logo" /> 
 
 ######
 
@@ -54,7 +54,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 * 🇷🇺 Russian post: lam1ksss@list.ru
 * 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
 *   Telegram: [@ll1ness](https://t.me/ll1ness)
-*   [My website](https://ll1ness.hopto.org)
+*   [My website](https://viraxis.hopto.org)
 ---
 
 ###### Thanks for visiting my profile <3 
