@@ -11,7 +11,7 @@
 # Full-Stack developer | Videcoder - Maksim Ryzhikov
 
 > [!NOTE]
-> Now i working on project '[CuboWerk](https://github.com/avir-jphp)'
+> Now i working on project '[ViraXis](https://github.com/avir-jphp)'
 
 ### Fast about me
 
