@@ -1,0 +1,43 @@
+#countdown-widget {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f8ff; /* Светло-голубой фон */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 20px auto;
+    color: #333;
+}
+
+#countdown-widget h2 {
+    color: #0056b3; /* Темно-синий заголовок */
+    margin-bottom: 15px;
+    font-size: 1.5em;
+}
+
+.countdown-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.countdown-item {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    flex-basis: 100%; /* Чтобы элементы занимали всю ширину контейнера */
+}
+
+.countdown-item span {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #d9534f; /* Красный цвет для цифр */
+}
+
+.countdown-item p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #555;
+}
