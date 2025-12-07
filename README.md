@@ -10,9 +10,6 @@
 
 # Full-Stack developer | Videcoder - Maksim Ryzhikov
 
-> [!NOTE]
-> Now i working on project '[ViraXis](https://github.com/avir-jphp)'
-
 ### Fast about me
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
