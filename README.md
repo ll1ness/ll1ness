@@ -47,11 +47,14 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="most used languages"    />
 
+##### Others:
+[DMCA License](https://raw.githubusercontent.com/ll1ness/ll1ness/refs/heads/main/dmca.md)
+
 ### Connection:
 * 🇷🇺 Russian post: lam1ksss@list.ru
 * 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
-*   Telegram: [@ll1ness](https://t.me/ll1ness)
-*   [My website](https://viraxis.hopto.org)
+*   Telegram(Support): [@ll1ness](https://t.me/ll1nessbot)
+*   [My website](https://ll1ness.webhop.me)
 ---
 
 ###### Thanks for visiting my profile <3 
