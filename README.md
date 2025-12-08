@@ -15,8 +15,6 @@
 Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ll1ness&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
-
 ## About me
 
 ### Soft skills
@@ -41,14 +39,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 #### Frameworks
 
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/ll1ness/ll1ness/blob/main/assets/Cursor_logo.png?raw=true" height="40" alt="cursor logo" /> 
-
-######
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ll1ness&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="most used languages"    />
-
-##### Others:
-[DMCA License](https://raw.githubusercontent.com/ll1ness/ll1ness/refs/heads/main/dmca.md)
+<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/ll1ness/ll1ness/blob/main/assets/develware-logo.png?raw=true" height="40" alt="develware logo" /> 
 
 ### Connection:
 * 🇷🇺 Russian post: lam1ksss@list.ru
