@@ -6,6 +6,7 @@
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://ll1ness.gitbook.io/wiki/" target="_blank"><img src="https://img.shields.io/badge/GitBook-%23202020.svg?&style=flat-square&logo=gitbook&logoColor=white" alt="GitBook"></a>
 
 <img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" />
 
