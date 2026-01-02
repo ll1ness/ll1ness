@@ -1,0 +1,9 @@
+[Added Associations]
+text/plain=code-2.desktop;code.desktop;
+video/x-matroska=mpv-2.desktop;vlc-2.desktop;
+
+[Default Applications]
+application/x-wayland-gnome-saved-search=thunar.desktop
+inode/directory=thunar.desktop
+text/plain=code-2.desktop;
+video/x-matroska=mpv-2.desktop;

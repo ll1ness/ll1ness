@@ -1,0 +1,7 @@
+[33m[NOTE](B[m Adding [35mExtra Spice(B[m in pacman.conf ... (B[m
+[36m[ACTION](B[m Uncommented: Color (B[m
+[36m[ACTION](B[m CheckSpace is already uncommented. (B[m
+[36m[ACTION](B[m Uncommented: VerbosePkgLists (B[m
+[36m[ACTION](B[m ParallelDownloads is already uncommented. (B[m
+[36m[ACTION](B[m Added [35mILoveCandy(B[m after [35mParallelDownloads(B[m. (B[m
+[36m[ACTION](B[m [35mPacman.conf(B[m spicing up completed (B[m
