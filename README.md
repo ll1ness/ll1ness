@@ -7,16 +7,16 @@
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://ll1ness.gitbook.io/wiki/" target="_blank"><img src="https://img.shields.io/badge/GitBook-%23202020.svg?&style=flat-square&logo=gitbook&logoColor=white" alt="GitBook"></a>
 
-<img width="385" height="84" alt="image" src="https://github.com/user-attachments/assets/51224168-571f-44e5-90e0-6e3729f69719" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" />
+<img width="385" height="84" alt="image" src="f928aa160c09d7cdd4e5541536f491a5.png" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" /> 
 
-# Full-Stack developer | Videcoder - Maksim Ryzhikov
+# Full-Stack developer | Videcoder
 
 ### Fast about me
 
 > [!NOTE] 
 > Now i I'm currently taking a Web Developer course from [Sololearn](https://www.sololearn.com) :)
 
-Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
+Hi! I am Coderov. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 > [!TIP]
