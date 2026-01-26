@@ -7,9 +7,10 @@
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://ll1ness.gitbook.io/wiki/" target="_blank"><img src="https://img.shields.io/badge/GitBook-%23202020.svg?&style=flat-square&logo=gitbook&logoColor=white" alt="GitBook"></a>
 
+
 <img width="385" height="84" alt="image" src="f928aa160c09d7cdd4e5541536f491a5.png" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" /> 
 
-# Full-Stack developer | Videcoder
+# Full-Stack developer | Videcoder <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
 
 ### Fast about me
 
