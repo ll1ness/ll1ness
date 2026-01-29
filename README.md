@@ -5,23 +5,22 @@
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="https://ll1ness.gitbook.io/wiki/" target="_blank"><img src="https://img.shields.io/badge/GitBook-%23202020.svg?&style=flat-square&logo=gitbook&logoColor=white" alt="GitBook"></a>
+<a href="https://ll1ness.gitbook.io/wiki/" target="_blank"><img src="https://img.shields.io/badge/GitBook-%23202020.svg?&style=flat-square&logo=gitbook&logoColor=white" alt="GitBook></a>
 
 
-<img width="385" height="84" alt="image" src="f928aa160c09d7cdd4e5541536f491a5.png" href="https://github.com/ll1ness/ll1ness/blob/main/Text%20info.png" /> 
 
-# Full-Stack developer | Videcoder <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
+# Full-stack | Quantora <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
 
 ### Fast about me
 
 > [!NOTE] 
 > Now i I'm currently taking a Web Developer course from [Sololearn](https://www.sololearn.com) :)
 
-Hi! I am Coderov. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
+Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 > [!TIP]
-> Now i create medium-size dig. projects named "NOILIX". This is organization, which create digital projects on request, and there can find free plan <3
+> Now i create web-part of Quantora repositories. This part contain "Nexus" repository family and our web app. And on Extra sub contain website and wiki.
 
 ## About me
 
