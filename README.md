@@ -6,20 +6,33 @@
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 
-# Full-stack Developer | <img src="https://github.com/user-attachments/assets/abd85be3-222d-45a7-a330-f9d1564ecb3d" height="21" alt="ll1ness font" />  <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
+<div align="center">
 
-### Fast about me
+<img src="https://github.com/ll1ness/ll1ness/blob/markdown/logo.png" height="64" />
+
+### LL1NESS
+Creating Digital Projects
+
+© 2026 ll1ness. All rights reserved. 
+
+<a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
+
+</div>
 
 > [!NOTE] 
 > Now i I'm currently taking a Web Developer lesson from [Sololearn](https://www.sololearn.com) :)
 
-Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
-I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
-
 > [!TIP]
 > Now i create web-part of Quantora repositories. This part contain "Nexus" repository family and our web app. And on Extra sub contain website and wiki.
 
-## About me
+<div align="center">
+  
+# Full-stack Developer | <img src="https://github.com/ll1ness/ll1ness/blob/markdown/73e375751da7c67738b8181735cb9cfa.png" height="21" alt="ll1ness font" />  
+
+### About me
+
+Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
+I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
@@ -46,10 +59,16 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/ll1ness/ll1ness/blob/markdown/assets/develware-logo.png" height="40" alt="develware logo" /> 
 
 ### Connection:
-* 🇷🇺 Russian post: roness@ro.ru
-* 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
-*   Telegram: not working in Russia, lmao '-'
-*   My website: in development [here](https://quantora.zapto.org/)
----
+🇷🇺 Russian post: roness@ro.ru
+
+🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
+
+Telegram: not working in Russia, lmao
+
+My website: in development [here](https://quantora.zapto.org/)
 
 ###### Thanks for visiting my profile <3 
+
+</div>
+
+
