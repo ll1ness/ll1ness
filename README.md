@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ll1ness/ll1ness/blob/markdown/logo.png" height="64" />
+<img src="transparent.png" height="64" />
 
 ### LL1NESS
 Creating Digital Projects
@@ -20,7 +20,7 @@ Creating Digital Projects
 <a href="//www.dmca.com/r/pdm10jk" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
 </div>
 
-> [!NOTE] 
+> [!NOTE]
 > Now i I'm currently taking a Web Developer lesson from [Sololearn](https://www.sololearn.com) :)
 
 > [!TIP]
@@ -30,11 +30,11 @@ Creating Digital Projects
 <div align="center">
 
   
-# Full-stack Developer | <img src="https://github.com/ll1ness/ll1ness/blob/markdown/73e375751da7c67738b8181735cb9cfa.png" height="21" alt="ll1ness font" />  
+# Full-stack Developer | <img src="nickname.png" height="21" alt="ll1ness font" />  
 
 ### About me
 
-Hi! I am ll1ness. I am 14 years old and I like to develop different software. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
+Hi! I am ll1ness. I am 14 years old and I like to develop different software and web applications. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
 I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 ### Soft skills
@@ -59,7 +59,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 #### Frameworks
 
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/ll1ness/ll1ness/blob/markdown/assets/develware-logo.png" height="40" alt="develware logo" /> 
+<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
 
 ### Connection:
 🇷🇺 Russian post: roness@ro.ru
