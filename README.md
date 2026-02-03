@@ -6,7 +6,7 @@
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 
-# Full-stack | <img src="https://github.com/quantoraeu/quantoraeu/blob/8b5b1d5eff64ec94f849d085b80df5e62dcd59fc/73e375751da7c67738b8181735cb9cfa.png" height="24" alt="ll1ness font" />  <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
+# Full-stack Developer | <img src="https://github.com/user-attachments/assets/abd85be3-222d-45a7-a330-f9d1564ecb3d" height="21" alt="ll1ness font" />  <a href="//www.dmca.com/r/9j4el28" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
 
 ### Fast about me
 
@@ -33,7 +33,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 💾 Also know data algorithms and their structures, which helps me write code efficiently and create effective solutions for the code and the project as a whole.
 
-🤖 Programming with AI and sometimes programming manually, and don't see nothing bad - programming with AI.
+🤖 Programming with AI and sometimes programming manually, and don't see nothing bad in programming with AI.
 
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
@@ -43,13 +43,13 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 #### Frameworks
 
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/quantoraeu/quantoraeu/blob/main/assets/develware-logo.png" height="40" alt="develware logo" /> 
+<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="https://github.com/quantoraeu/quantoraeu/blob/markdown/assets/develware-logo.png" height="40" alt="develware logo" /> 
 
 ### Connection:
 * 🇷🇺 Russian post: roness@ro.ru
 * 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
 *   Telegram: not working in Russia, lmao '-'
-*   My website: in development /html>
+*   My website: in development [here](https://quantora.zapto.org/)
 ---
 
 ###### Thanks for visiting my profile <3 
