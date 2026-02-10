@@ -5,8 +5,8 @@
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0ee338a8-d9db-41f6-95c6-676007fdcf35" />
 
 
-### LL1NESS
-Creating Digital Projects
+### LL1NESS™
+Creating Digital Projects on request
 
 © 2026 ll1ness. All rights reserved. 
 
