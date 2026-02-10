@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="transparent.png" height="64" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0ee338a8-d9db-41f6-95c6-676007fdcf35" />
+
 
 ### LL1NESS
 Creating Digital Projects
