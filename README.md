@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0ee338a8-d9db-41f6-95c6-676007fdcf35" />
+<img width="64" height="64" alt="image" src="transparent.png" />
 
 
 ### LL1NESS™
