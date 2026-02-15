@@ -1,10 +1,9 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=ARCHLINUX&message=USER&color=green?style=plastic&logo=archlinux" /> 
+  <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Debian&message=USER&color=green?style=plastic&logo=debian" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
-<a href="https://t.me/ll1ness" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
@@ -16,18 +15,18 @@
 > Now i I'm currently taking a Web Developer lesson from [Sololearn](https://www.sololearn.com) :)
 
 > [!TIP]
-> Now i create web-part of Quantora repositories. This part contain "Nexus" repository family and our web app. And on Extra sub contain website and wiki.
+> Now i work at my third project - [TechOne UI](https://github.com/ll1ness/TechOne-UI/). This is User Interface lib, based on JS/CSS. Need for my projects in future, but i want to share my project with you. I welcome PR's!
 
 
 <div align="center">
 
   
-# Full-stack Developer | <img src="nickname.png" height="21" alt="ll1ness font" />  
+# Web developer | <img src="nickname.png" height="21" alt="ll1ness font" />  
 
 ### About me
 
 Hi! I am ll1ness. I am 14 years old and I like to develop different software and web applications. Born on 12.10.2011 in Russia, I speak Russian and a little English. 
-I am a Full-stack developer of client applications for Windows🪟 and Linux🐧. I create efficient, user-friendly and scalable solutions focused on the user👤.
+I am a Full-stack developer of web applications. I create efficient, user-friendly and scalable solutions focused on the user👤.
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
@@ -51,7 +50,7 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 
 #### Frameworks
 
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="gigacode ai"    />  <img src="https://github.com/user-attachments/assets/394ae945-b47e-4518-a5b8-1775a1f497ef" height="40" alt="gigacode ai" /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
+<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
 
 ### Connection:
 🇷🇺 Russian post: roness@ro.ru
@@ -59,8 +58,6 @@ I am a Full-stack developer of client applications for Windows🪟 and Linux🐧
 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
 
 Telegram: not working in Russia, lmao
-
-My website: in development [here](https://quantora.zapto.org/)
 
 ###### Thanks for visiting my profile <3 
 
