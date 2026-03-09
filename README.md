@@ -53,11 +53,9 @@ I am a Full-stack developer of web applications. I create efficient, user-friend
 <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
 
 ### Connection:
-🇷🇺 Russian post: roness@ro.ru
+🇷🇺 Russian post: lam1ksss@yandex.ru
 
 🇺🇦 🇺🇸 🇰🇿 🇧🇾 🇨🇳 Foreign mail: majezxctoy6799@outlook.com
-
-Telegram: not working in Russia, lmao
 
 ###### Thanks for visiting my profile <3 
 
