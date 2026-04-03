@@ -1,13 +1,12 @@
-
-
 <div align="center">
+<img width="680" height="360" alt="banner" src="https://github.com/user-attachments/assets/911ef4de-133a-4b42-b080-390243d10670" />
+
   <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Debian&message=USER&color=green?style=plastic&logo=debian" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-
 <a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
 </div>
 
