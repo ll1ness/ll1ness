@@ -8,7 +8,7 @@
 <a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a>
-<a href="" target="_blank"><img width="10%" src="bmc-yellow-button-941f96a1.png" alt="Donate"></a>
+<a href="https://dalink.to/ll1ness" target="_blank"><img width="10%" src="bmc-yellow-button-941f96a1.png" alt="Donate"></a>
 </div>
 
 > [!NOTE]
