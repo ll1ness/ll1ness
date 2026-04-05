@@ -18,7 +18,7 @@
 
 <!-- ========== СТАТИСТИКА GitHub ========== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ll1ness/ll1ness/main/general.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/ll1ness/ll1ness/main/general.svg" alt="GitHub Metrics" width="50%">
 </div>
 <!-- ====================================== -->
 
