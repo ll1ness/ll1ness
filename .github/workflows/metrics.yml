@@ -1,10 +1,130 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ll1ness/ll1ness/main/general.svg" alt="GitHub Metrics">
-</div>
+name: Metrics
+on:
+  # Запуск при каждом пуше в main
+  push:
+    branches: [ main ]
+  # Ежедневный автоматический запуск в 00:00
+  schedule:
+    - cron: "0 0 * * *"
+  # Возможность запуска вручную из вкладки Actions
+  workflow_dispatch:
 
-<!--
-Эта секция нужна для работы генератора картинок.
-Она создаст файл general.svg с вашей статистикой.
--->
-<img src="https://metrics.lecoq.io/ll1ness?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&languages=1&lines=1&repositories=1&repositories.batch=100&repositories.forks=1&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&introduction=1&introduction.title=true&followup=1&followup.sections=repositories&stargazers=1&stargazers.days=14&stargazers.charts=true&stargazers.worldmap=false&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&repositories.featured=ll1ness%2Fll1ness&repositories.skip=recent&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.random.wait=0&repositories.random.skip=&repositories.random.count=0&pagespeed=1&pagespeed.url=https%3A%2F%2Fll1ness.github.io&pagespeed.detailed=1&pagespeed.pwa=1&music=1&music.mode=playlist&music.limit=4&music.played.at=1&config.timezone=Europe%2FMoscow&config.twemoji=1&config.octicon=1&config.animations=1&config.css=%20.field%7Bcolor%3A%23999999%7D&config.padding=0%25%2C%200%25"
-/>
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    steps:
+      - name: 🚀 Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Ваш токен (хранится в Secrets)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Базовые настройки
+          filename: general.svg
+          committer_message: "chore: update metrics [skip ci]"
+          
+          # Шаблон и опции
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_affiliations: owner, collaborator, organization_member
+          
+          # 🔥 ОСНОВНЫЕ ПЛАГИНЫ (как на скриншоте)
+          
+          # 1. Календарь активности (зеленые квадратики)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # 2. Языки программирования (с количеством строк)
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_categories: programming
+          plugin_languages_colors: github
+          plugin_languages_recent_days: 30
+          plugin_languages_details: bytes-size, percentage
+          plugin_lines: yes
+          
+          # 3. Привычки (графики времени коммитов)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: no
+          
+          # 4. Достижения (трофеи и значки)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_only: ""
+          plugin_achievements_limit: 0
+          
+          # 5. Активность (недавние коммиты)
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
+          
+          # 6. Репозитории (звезды и форки)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_indepth: yes
+          plugin_followup_archived: yes
+          
+          # 7. Звезды (как на скрине)
+          plugin_stargazers: yes
+          plugin_stargazers_days: 14
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_worldmap: no
+          
+          # 8. Люди (followers/following)
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          # 9. Музыка (плейлист как на скрине)
+          plugin_music: yes
+          plugin_music_mode: playlist
+          plugin_music_limit: 4
+          plugin_music_played_at: yes
+          # Раскомментируйте для своего плейлиста Apple Music:
+          # plugin_music_playlist: https://music.apple.com/ru/playlist/ваш-плейлист
+          
+          # 10. Введение и статистика
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          
+          # 11. PageSpeed Insights (оценка 97/100/100/100)
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://github.com/ll1ness
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          
+          # Визуальные настройки (темная тема как на скрине)
+          config_timezone: Europe/Moscow
+          config_twemoji: yes
+          config_octicon: yes
+          config_animations: yes
+          config_css: |
+            .field {
+              color: #999999;
+            }
+            .field:hover {
+              color: #2cbe4e;
+            }
+            .title {
+              color: #2cbe4e !important;
+            }
+            .stat {
+              color: #58a6ff;
+            }
