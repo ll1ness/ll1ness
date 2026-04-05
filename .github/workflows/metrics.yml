@@ -12,69 +12,40 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🚀 Generate metrics
+      # ИЗОБРАЖЕНИЕ 1: Активность и языки
+      - name: 📊 Generate image 1 - Activity & Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: general.svg
-          committer_message: "chore: update metrics [skip ci]"
-          
-          # Базовая настройка
-          template: classic
+          filename: metrics-activity.svg
           base: header, repositories
-          
-          # 1. Календарь активности (зеленые квадратики)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
-          # 2. Языки (без глубокого анализа - исправляет ошибки)
           plugin_languages: yes
-          plugin_languages_limit: 10
-          plugin_languages_threshold: 0
-          plugin_languages_colors: github
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no  # ВАЖНО: отключаем глубокий анализ
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_categories: programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          
-          # 3. Привычки (графики коммитов)
+          plugin_languages_limit: 8
+          plugin_languages_indepth: no
           plugin_habits: yes
-          plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_activity: no
+          plugin_achievements: no
+          plugin_people: no
+          plugin_followup: no
+          config_timezone: Europe/Moscow
           
-          # 4. Репозитории
+      # ИЗОБРАЖЕНИЕ 2: Репозитории и сообщество
+      - name: 👥 Generate image 2 - Repositories & Community
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-community.svg
+          base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories
-          
-          # 5. Звезды (упрощенно)
-          plugin_stargazers: yes
-          plugin_stargazers_days: 14
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          
-          # 6. Люди (followers)
           plugin_people: yes
           plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          
-          # 7. Введение
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          
-          # 8. ОТКЛЮЧАЕМ проблемные плагины
-          plugin_activity: no        # Отключаем - исправляет "Unexpected error"
-          plugin_achievements: no    # Отключаем - исправляет "Unexpected error"  
-          plugin_pagespeed: no       # Отключаем - исправляет 429 ошибку
-          plugin_music: no           # Отключаем если нет токена
-          
-          # Настройки времени и темы
+          plugin_stargazers: yes
+          plugin_activity: no
+          plugin_achievements: no
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_habits: no
           config_timezone: Europe/Moscow
-          config_twemoji: yes
-          config_octicon: yes
-          config_animations: yes
-          config_padding: 0%, 0%
