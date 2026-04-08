@@ -2,7 +2,7 @@
   <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Debian&message=USER&color=green?style=plastic&logo=debian" /> 
+  <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 <a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
