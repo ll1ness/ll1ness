@@ -27,7 +27,7 @@
 
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
-#### My stack
+#### My coding stack
 
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  /> <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  /> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
