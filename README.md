@@ -2,15 +2,16 @@
   <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ll1ness&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
+  <img src="https://komarev.com/ghpvc/?username=ll1ness" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
-<a href="https://github.com/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://gitflic.ru/user/ll1ness" target="_blank"><img src="https://img.shields.io/badge/GitFlic-%23cccccc.svg?&style=flat-square&logo=git&logoColor=orange" alt="GitFlic"></a>
-<a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a> <a href="https://dalink.to/ll1ness" target="_blank">  <img src="bmc-yellow-button-941f96a1.png" width="8%"</a>
-<a href="https://www.reddit.com/u/ll1ness/s/kcmO9YxhQr" target="_blank"><img src="https://img.shields.io/badge/reddit-%23ff8000.svg?&style=flat-square&logo=reddit&logoColor=orange" alt="reddit"></a>
 
+<a href="https://www.reddit.com/u/ll1ness/s/kcmO9YxhQr" target="_blank"><img src="https://img.shields.io/badge/reddit-%23303030.svg?&style=flat-square&logo=reddit" alt="reddit"></a>
+<a href="https://discord.com/users/1391839291449151650" target="_blank"><img src="https://img.shields.io/badge/discord-%233f3f3f.svg?&style=flat-square&logo=discord" alt="Discord"></a>
+<a href="https://soundcloud.com/ll1nezz" target="_blank"><img src="https://img.shields.io/badge/soundcloud-%23595959.svg?&style=flat-square&logo=soundcloud" alt="SoundCloud"></a>
+<a href="https://tiktok.com/@ll1ness1" target="_blank"><img src="https://img.shields.io/badge/tiktok-%233f3f3f.svg?&style=flat-square&logo=tiktok" alt="TikTok"></a>
+<a href="https://twitch.tv/ll1ness018" target="_blank"><img src="https://img.shields.io/badge/twitch-%23303030.svg?&style=flat-square&logo=twitch" alt="Twitch"></a>
+<a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
@@ -37,4 +38,8 @@
 <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
 </div>
 
+#### Support me on [Donation Alerts](https://dalink.to/ll1ness)
+<a href="https://dalink.to/ll1ness" target="_blank">  <img src="DA_Logo_Color.svg.png" width="17%" > </a>
+
+<a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a> 
 ###### Thanks for visiting my profile <3 
