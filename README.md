@@ -2,7 +2,8 @@
   <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ll1ness" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
+  
+<img src="https://komarev.com/ghpvc/?username=ll1ness" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 
@@ -12,6 +13,14 @@
 <a href="https://tiktok.com/@ll1ness1" target="_blank"><img src="https://img.shields.io/badge/tiktok-%233f3f3f.svg?&style=flat-square&logo=tiktok" alt="TikTok"></a>
 <a href="https://twitch.tv/ll1ness018" target="_blank"><img src="https://img.shields.io/badge/twitch-%23303030.svg?&style=flat-square&logo=twitch" alt="Twitch"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+
+<a href="https://ll1ness.github.io/projects" target="_blank"><img src="https://img.shields.io/badge/My projects-%23808080.svg" alt="My projects"></a>  <a href="https://ll1ness.github.io/me" target="_blank"><img src="https://img.shields.io/badge/My website (technical works)-%23808080.svg" alt="My website"></a>
+
+</div>
+
+<div align="center">
+
+<img src="latte.png" alt="dispatcher" width="500" />
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
