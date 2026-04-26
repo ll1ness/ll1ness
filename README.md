@@ -4,6 +4,7 @@
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=ll1ness" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
+<img src="https://img.shields.io/static/v1?label=Ubuntu&message=user&color=green?style=plastic&logo=ubuntu" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 
@@ -44,7 +45,8 @@
 <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  /> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> 
+<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" alt="wsl"    /> 
+
 </div>
 
 #### Support me on [Donation Alerts](https://dalink.to/ll1ness)
