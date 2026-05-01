@@ -4,7 +4,6 @@
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=ll1ness" alt="watching_count" /> <img src="https://img.shields.io/static/v1?label=Archlinux&message=user&color=green?style=plastic&logo=archlinux" /> 
-<img src="https://img.shields.io/static/v1?label=Ubuntu&message=user&color=green?style=plastic&logo=ubuntu" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dll1ness&longCache=true"/>
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 
