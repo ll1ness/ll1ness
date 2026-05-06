@@ -14,7 +14,7 @@
 <a href="https://twitch.tv/ll1ness018" target="_blank"><img src="https://img.shields.io/badge/twitch-%23303030.svg?&style=flat-square&logo=twitch" alt="Twitch"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 
-<a href="https://ll1ness.github.io/projects" target="_blank"><img src="https://img.shields.io/badge/My projects-%23808080.svg" alt="My projects"></a>  <a href="https://ll1ness.github.io/me" target="_blank"><img src="https://img.shields.io/badge/My website (technical works)-%23808080.svg" alt="My website"></a>
+<a href="https://ll1ness.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My website-%23808080.svg" alt="My website"></a>
 
 </div>
 
