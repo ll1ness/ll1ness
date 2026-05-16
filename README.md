@@ -14,8 +14,17 @@
 <a href="https://twitch.tv/ll1ness018" target="_blank"><img src="https://img.shields.io/badge/twitch-%23303030.svg?&style=flat-square&logo=twitch" alt="Twitch"></a>
 <a href="https://orcid.org/0009-0001-2539-7302" target="_blank"><img src="https://img.shields.io/badge/ORCID-%2390EE90.svg?&style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 
-<a href="https://ll1ness.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My website-%23808080.svg" alt="My website"></a>
+<details>
+  <summary>My projects list</summary>
 
+  <img src="https://github.com/ll1ness/ll1ness/raw/legacy/latte.png" alt="dispatcher" width="500" />
+  
+  | My projects list | 
+  | :--:  | 
+  | _[**TechOne UI**](https://ll1ness.github.io/techone-ui/) - Open-source design framework for create applications, based on web-technologies._ | 
+  | _[**LinTech Studio**](_blank) - Open-source project for create simple desktop applications on JPHP, based on [DevelNext](http://develnext.org/)_ |
+  
+</details>   
 </div>
 
 <div align="center">
@@ -39,12 +48,9 @@
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
 #### My coding stack
-
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  /> <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  /> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  /> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualcode lo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma"    /> <img src="assets/develware-logo.png" height="40" alt="develware logo" /> <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" alt="wsl"    /> <img src="appwrite.png" height="40" alt="appwrite"    /> <img src="de_gitlab_connector.png" height="40" alt="gitlab"    /> <img src="Roblox_Studio_icon_2025.svg.png" height="40" alt="roblox"    /> <img src="Lua-Logo.svg.png" height="40" alt="lua"    /> <img src="opencode-desktop-icon-OSkS5hfD.png" height="40" alt="lua"    /> 
+| <img src="https://skillicons.dev/icons?i=py" height="40" /> | <img src="https://skillicons.dev/icons?i=java" height="40" /> | <img src="https://skillicons.dev/icons?i=markdown" height="40" /> | <img src="https://skillicons.dev/icons?i=php" height="40" /> | <img src="https://skillicons.dev/icons?i=javascript" height="40" /> | <img src="https://skillicons.dev/icons?i=typescript" height="40" /> | <img src="https://skillicons.dev/icons?i=c" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=electron" height="40" /> | <img src="opencode-desktop-icon-OSkS5hfD.png" height="40" /> |
+|-|-|-|-|-|-|-|-|-|-|-|
+| <img src="https://skillicons.dev/icons?i=vscode" height="40" /> | <img src="https://skillicons.dev/icons?i=visualstudio" height="40" /> | <img src="https://skillicons.dev/icons?i=eclipse" height="40" /> | <img src="https://skillicons.dev/icons?i=pycharm" height="40" /> | <img src="https://skillicons.dev/icons?i=figma" height="40" /> | <img src="assets/develware-logo.png" height="40" /> | <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" /> | <img src="appwrite.png" height="40" /> | <img src="de_gitlab_connector.png" height="40" /> | <img src="Roblox_Studio_icon_2025.svg.png" height="40" /> | <img src="Lua-Logo.svg.png" height="40" /> |  
 
 </div>
 
