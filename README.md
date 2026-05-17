@@ -22,7 +22,7 @@
   | My projects list | 
   | :--:  | 
   | _[**TechOne UI**](https://ll1ness.github.io/techone-ui/) - Open-source design framework for create applications, based on web-technologies._ | 
-  | _[**LinTech Studio**](_blank) - Open-source project for create simple desktop applications on JPHP, based on [DevelNext](http://develnext.org/)_ |
+  | _[**Spark Studio**](https://github.com/ll1ness/spark-studio) - Open-source project for create simple desktop applications on JavaFX, JPHP, based on [DevelNext](http://develnext.org/)_ |
   
 </details>   
 </div>
