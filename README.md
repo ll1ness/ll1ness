@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/stars/ll1ness?label=Stars" alt="stars">
 
 <a href="https://www.reddit.com/u/ll1ness/s/kcmO9YxhQr" target="_blank"><img src="https://img.shields.io/badge/reddit-%23303030.svg?&style=flat-square&logo=reddit" alt="reddit"></a>
-<a href="https://discord.com/users/1391839291449151650" target="_blank"><img src="https://img.shields.io/badge/discord-%233f3f3f.svg?&style=flat-square&logo=discord" alt="Discord"></a>
+<a href="https://discord.gg/nEcnZKQuCf" target="_blank"><img src="https://img.shields.io/badge/discord-%233f3f3f.svg?&style=flat-square&logo=discord" alt="Discord"></a>
 <a href="https://soundcloud.com/ll1nezz" target="_blank"><img src="https://img.shields.io/badge/soundcloud-%23595959.svg?&style=flat-square&logo=soundcloud" alt="SoundCloud"></a>
 <a href="https://tiktok.com/@ll1ness1" target="_blank"><img src="https://img.shields.io/badge/tiktok-%233f3f3f.svg?&style=flat-square&logo=tiktok" alt="TikTok"></a>
 <a href="https://twitch.tv/ll1ness018" target="_blank"><img src="https://img.shields.io/badge/twitch-%23303030.svg?&style=flat-square&logo=twitch" alt="Twitch"></a>
