@@ -48,11 +48,13 @@
 🔨 And, of course, the ability to work with different tools and learn them quickly.
 
 #### My coding stack
-| <img src="https://skillicons.dev/icons?i=py" height="40" /> | <img src="https://skillicons.dev/icons?i=java" height="40" /> | <img src="https://skillicons.dev/icons?i=markdown" height="40" /> | <img src="https://skillicons.dev/icons?i=php" height="40" /> | <img src="https://skillicons.dev/icons?i=javascript" height="40" /> | <img src="https://skillicons.dev/icons?i=typescript" height="40" /> | <img src="https://skillicons.dev/icons?i=c" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=electron" height="40" /> | <img src="opencode-desktop-icon-OSkS5hfD.png" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=py" height="40" /> | <img src="https://skillicons.dev/icons?i=java" height="40" /> | <img src="https://skillicons.dev/icons?i=markdown" height="40" /> | <img src="https://skillicons.dev/icons?i=php" height="40" /> | <img src="https://skillicons.dev/icons?i=javascript" height="40" /> | <img src="https://skillicons.dev/icons?i=typescript" height="40" /> | <img src="https://skillicons.dev/icons?i=c" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=electron" height="40" /> | <img src="hermesagent.png" height="40" /> |
 |-|-|-|-|-|-|-|-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=vscode" height="40" /> | <img src="https://skillicons.dev/icons?i=visualstudio" height="40" /> | <img src="https://skillicons.dev/icons?i=eclipse" height="40" /> | <img src="https://skillicons.dev/icons?i=pycharm" height="40" /> | <img src="https://skillicons.dev/icons?i=figma" height="40" /> | <img src="assets/develware-logo.png" height="40" /> | <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" /> | <img src="appwrite.png" height="40" /> | <img src="de_gitlab_connector.png" height="40" /> | <img src="Roblox_Studio_icon_2025.svg.png" height="40" /> | <img src="Lua-Logo.svg.png" height="40" /> |  
+| <img src="https://skillicons.dev/icons?i=vscode" height="40" /> | <img src="https://skillicons.dev/icons?i=visualstudio" height="40" /> | <img src="https://skillicons.dev/icons?i=eclipse" height="40" /> | <img src="https://skillicons.dev/icons?i=vercel" height="40" /> | <img src="https://skillicons.dev/icons?i=figma" height="40" /> | <img src="assets/develware-logo.png" height="40" /> | <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" /> | <img src="appwrite.png" height="40" /> | <img src="de_gitlab_connector.png" height="40" /> | <img src="Roblox_Studio_icon_2025.svg.png" height="40" /> | <img src="Lua-Logo.svg.png" height="40" /> |  
 
 </div>
+
+---
 
 #### Support me on [Donation Alerts](https://dalink.to/ll1ness)
 <a href="https://dalink.to/ll1ness" target="_blank">  <img src="DA_Logo_Color.svg.png" width="17%" > </a>
