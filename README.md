@@ -21,8 +21,9 @@
   
   | My projects list | 
   | :--:  | 
-  | _[**TechOne UI**](https://ll1ness.github.io/techone-ui/) - Open-source design framework for create applications, based on web-technologies._ | 
-  | _[**Spark Studio**](https://github.com/ll1ness/spark-studio) - Open-source project for create simple desktop applications on JavaFX, JPHP, based on [DevelNext](http://develnext.org/)_ |
+  | _[**TechOne UI**](https://techoneui.vercel.app/) - Open-source design framework for create applications, based on web-technologies._ | 
+  | _[**Spark Studio**](https://github.com/ll1ness/spark-studio) - Open-source project for create simple desktop applications on JavaFX, JPHP, based on [DevelNext](http://develnext.org/)._ |
+  |_[**Weather Seeker**](https://weather-seeker.vercel.app/) - Open-source powerful web-application for see current weather status._|
   
 </details>   
 </div>
