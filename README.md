@@ -1,5 +1,5 @@
 <div align="center" href="https://github.com/ll1ness">
-  <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
+  <img width="45%" href="https://github.com/ll1ness" src="readme-assets/metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="readme-assets/metrics-community.svg" />
 </div>
 <div align="center">
   
@@ -17,7 +17,7 @@
 <details>
   <summary>My projects list</summary>
 
-  <img src="https://github.com/ll1ness/ll1ness/raw/legacy/latte.png" alt="dispatcher" width="500" />
+  <img src="https://github.com/ll1ness/ll1ness/raw/legacy/readme-assets/latte.png" alt="dispatcher" width="500" />
   
   | My projects list | 
   | :--:  | 
@@ -51,14 +51,14 @@
 #### My coding stack
 | <img src="https://skillicons.dev/icons?i=py" height="40" /> | <img src="https://skillicons.dev/icons?i=java" height="40" /> | <img src="https://skillicons.dev/icons?i=markdown" height="40" /> | <img src="https://skillicons.dev/icons?i=php" height="40" /> | <img src="https://skillicons.dev/icons?i=javascript" height="40" /> | <img src="https://skillicons.dev/icons?i=typescript" height="40" /> | <img src="https://skillicons.dev/icons?i=c" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=electron" height="40" /> | <img src="hermesagent.png" height="40" /> |
 |-|-|-|-|-|-|-|-|-|-|-|
-| <img src="https://skillicons.dev/icons?i=vscode" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" height="40" /> | <img src="https://skillicons.dev/icons?i=eclipse" height="40" /> | <img src="https://skillicons.dev/icons?i=vercel" height="40" /> | <img src="https://skillicons.dev/icons?i=figma" height="40" /> | <img src="assets/develware-logo.png" height="40" /> | <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" /> | <img src="appwrite.png" height="40" /> | <img src="de_gitlab_connector.png" height="40" /> | <img src="Roblox_Studio_icon_2025.svg.png" height="40" /> | <img src="Lua-Logo.svg.png" height="40" /> |  
+| <img src="https://skillicons.dev/icons?i=vscode" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" height="40" /> | <img src="https://skillicons.dev/icons?i=eclipse" height="40" /> | <img src="https://skillicons.dev/icons?i=vercel" height="40" /> | <img src="https://skillicons.dev/icons?i=figma" height="40" /> | <img src="assets/develware-logo.png" height="40" /> | <img src="https://github.com/user-attachments/assets/df89820e-5dab-4ce4-a53e-c33443ed705a" height="40" /> | <img src="appwrite.png" height="40" /> | <img src="readme-assets/de_gitlab_connector.png" height="40" /> | <img src="readme-assets/Roblox_Studio_icon_2025.svg.png" height="40" /> | <img src="readme-assets/Lua-Logo.svg.png" height="40" /> |  
 
 </div>
 
 ---
 
 #### Support me on [Donation Alerts](https://dalink.to/ll1ness)
-<a href="https://dalink.to/ll1ness" target="_blank">  <img src="DA_Logo_Color.svg.png" width="17%" > </a>
+<a href="https://dalink.to/ll1ness" target="_blank">  <img src="readme-assets/DA_Logo_Color.svg.png" width="17%" > </a>
 
 <a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a> 
 ###### Thanks for visiting my profile <3 
