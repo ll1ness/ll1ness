@@ -62,3 +62,5 @@
 
 <a href="//www.dmca.com/Protection/Status.aspx?ID=c98a4e6f-c231-41d4-9faf-973160570e12&refurl=https://github.com/ll1ness" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=1bfdbd01-0307-49c4-bb63-955cd1039b18"  alt="DMCA.com Protection Status" /></a> 
 ###### Thanks for visiting my profile <3 
+
+[ll1ness Copyright Infringement Takedown Policy and Instructions](dmca.md)
