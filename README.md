@@ -17,8 +17,6 @@
 <details>
   <summary>My projects list</summary>
 
-  <img src="https://github.com/ll1ness/ll1ness/raw/legacy/readme-assets/latte.png" alt="dispatcher" width="500" />
-  
   | My projects list | 
   | :--:  | 
   | _[**TechOne UI**](https://techoneui.vercel.app/) - Open-source design framework for create applications, based on web-technologies._ | 
@@ -30,7 +28,7 @@
 
 <div align="center">
 
-<img src="latte.png" alt="dispatcher" width="500" />
+<img src="readme-assets/latte.png" alt="dispatcher" width="500" />
 
 ### Soft skills
 🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
