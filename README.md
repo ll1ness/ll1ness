@@ -1,5 +1,5 @@
 <div align="center" href="https://github.com/ll1ness">
-  <img width="45%" href="https://github.com/ll1ness" src="readme-assets/metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="readme-assets/metrics-community.svg" />
+  <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
 <div align="center">
   
