@@ -1,0 +1,305 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="431" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.people{padding:0 10px}.people .avatar{margin:0 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
+                    </svg>
+                    <span class="followup-title">Overall issues and pull requests status</span>
+                </h2>
+            </section>
+            <div class="column largeable">
+                <h3>On ll1ness's repositories</h3>
+                <div class="row fill-width">
+                    <section class="column">
+                        <h3 class="no-margin-top">Issues</h3>
+                        <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="220" height="8">
+                            <mask id="issues-bar">
+                                <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
+                            </mask>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="220" height="8" fill="#d1d5da"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="NaN" y="0" width="0" height="8" fill="#c9d1d9"/>
+                        </svg>
+                        <div class="followup legend field fill-width">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                    <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>open</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                    <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>closed</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8B949E" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>drafts</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8B949E" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm3.28 5.78a.75.75 0 00-1.06-1.06l-5.5 5.5a.75.75 0 101.06 1.06l5.5-5.5z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>skipped</small></span>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column">
+                        <h3 class="no-margin-top">Pull requests</h3>
+                        <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="220" height="8">
+                            <mask id="pr-bar">
+                                <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
+                            </mask>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="220" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                        </svg>
+                        <div class="followup legend field fill-width">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>open</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                </svg>
+                                <span class="no-wrap">3 <small>merged</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#8B949E" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    <path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>drafts</small></span>
+                            </div>
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                </svg>
+                                <span class="no-wrap">0 <small>closed</small></span>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <section class="stargazers">
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                    </svg>
+                    Stargazers
+                </h2>
+                <div class="row margin-bottom">
+                    <section class="column chart">
+                        <h3>Total stargazers</h3>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                4
+                                <div class="bottom">July</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                6
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                8
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                10
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                11
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                12
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                17
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
+                        <h3>New stargazers per day</h3>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                4
+                                <div class="bottom">July</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                6
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                8
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                9
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                10
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                11
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                12
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                13
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                14
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                16
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                17
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
+                    </svg>
+                    1 follower
+                </h2>
+                <div class="row">
+                    <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEaElEQVR4nJ1W/09bVRR/Y/+BtF3WJy0tXTWlX7RroWaza3mlG23t2GjYbAt2TpkOVs2iYvwyLRiXmSwuhEYgYbGRFZ2JY7JhVFwlAqmBzaGZWdACK7JlSuIvJhpdcsy5r3225fW18YcP3PSe8/n0np5z74cSiSo3icWiCrG4skIkYlG4puUKVY2+7rltdUxcY/XO6xpalhG4VtczcYXWFJbKq1XZPOSTSFhkuRGVlfdtonCxZYt4Mx+UGr1Ls9OdMDa1gdFVGtpd3oRcXdvE5ks28OEX4AQlkhxslUp1Vs9EOSJ80Fk9E1vp+6W5vJwgliB3g5YrDTrGly5GZul6EWyD/WAb6If6oy8UFTU0tqarFCqDoCCKGZwH13lJ3G1gHx4A980p8GSAa9tgtLio8+C6rEZNRDMaOSXFMgqcbFe0jxMqhPXMu8XLy/jS0ioZzQmyJ5RsFvrNzKFj4P7xa0Luuj4JzEfvA3M+Bq6FSfakNxJgDh4tKqrZ6bqcaSJWUKkxuISawDYUJcSOsXNgOtDBfW56/Ag4xkfJHlZAiEPGdi9bUtL6AsG7p8fBPhRlf8eWIJjcbRDrC8DkBwEwutvBfnYAdifGhDvX5k2QkuJQC86ZNwTMZx/Cka4gDJ4OwO2EH3pPBOCfq374I+mHA08G4cRrQXBcjBNxo4AoLVfUUDX6urBQECnh0Cl4pzcIf8/74d5VPxFD3MuIjvQHwHT6Ldi+/7CgoFJnDlN4XQkOcvMh0L7XA7GRw5xIriD+vxBrB21/BIx7Q4KCDz7SGKc0Vu9cqZtDe+YN6LsYLio4PN5JYkry2JrnKK29ZalUoL77OLTEXikq+MTIy6B/6XhJQT3jW6J0DaUFH95/CLTRHvh8smOD4EziKdBGIySmLMFSJcWBbvx0FJjZMbAM98Kf062c4F8zrfDo2R5omB2DxvFRMAeeFR4N+745Si3QNOb2Tui6NgW9qesEkR9mYH32JPyeZIHryPcz3H7ntSmSU4xPXe84RylqTfxj4WkH55ULML2ahtXbv5WFb1bTJAdz+Tira7eHKSkOPs/mjtcj5MoaXVksWxBjMQdzN3A2tYFMqVKRqw1f6sIA5uMYST6ZWsgjTa3cge9uLBOkbt3J23s7tUByMHfDDO5wXeFeC7xYCwOcX31CkjsWv80jvfXLr7C4tEaA69y9pxeTJAdzC/lUtQ+5Mpe3KPs8XeY74WM3p+Dntbsly/nT2l0S68ETns8/odrivIQaGU/DCqIHQVvAdWjoGOxJThCCL9MrJQW/SC+T2D3JCTCHuv4bBcaXpqtkGX8jqqDwT9ZhoQfJsxh7Q2B5vhvc3W/CM6+eEgTGYCy+Ltl85Kre9oChwLWJ8kwUehAhq1EudIwvnRXLM1F8NpGuktFoC/6vmNrivETLOB/DL8gH7F58qcsSamJbP9ONvHxEEO03zkfWmrMQ45fgQMurVfh44numtTXP4yWM0Nn3zavrHXG8QXCos/FZjkJO/Pn+BSiCkwowv4DPAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
+                    </svg>
+                    4 followed
+                </h2>
+                <div class="row">
+                    <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQUlEQVR4nLXVaVMiRxgH8P0AQ7JxXQUG5uwZ5j5gYL3XY+UQb1c8WDwWb0XBDXgjiosIXuC1GrOHlZRWkqpUXiSVj5cyW5XXjlV5qt/2r6qf/vfTT6D/oZ48Ys/Tb5+WGc0m2AJbUROMGmGkzASXlZvKjHDJs9LHoBMNNWGANBEEggILCiwYgDHSZMXLYMSMYBhJoRZEH2o2GXs6Ox2yFGqqG2aAiBEwQpoRwmTFSSsmiJKL57tpoA/V7Gpri3dzcfbd1Oh4f/cET9lQwowSJitpRYkKl1OWZTfH6kNDb4Jfrk6Pd9ZOMsnzfDo+NhSRWQoHJow0WnFJklVFBQyvAyVJIre3c7afLmY3P5/mf/t0cXN+sDY5suJSSYK24LQZwXGSwoBNB+r3NO/ubBazqWI29eXi8Pb65O7Hsx8K2WxiIdH0UiAAjFHlMGa0oDrQifDIL7c3xdx2YS91vr9TyKaui3sH6dUPh5nY8ICHYcz3SQA0wz0UbWx4efvTp7/++PXsMFPYS+W3VzeWY5fH2d1k4iiTPMok5193ohjAAWNByQeh35WUMCwbCAT+/vP3j5fFk/33a9GpqW5vYTe1vbJ4mEneXBVWYtMDlS5JVkwPRCEIMhgM7d09V5dnq/H5hfCbSLAr1Fwx19009dq7MB46ym4Vctux6fEqQMEEpaOnHn/b0MjQUW47EfBH+30jvmovT0Q662OB5lR85uwwE52ZeEsTwKYnUo1ubzAYTCcT14XsxlBrOtyx29O4OdqRnu7LZzcuT/LTY0OaIBKA0YH2BgLra0u7Wyv59GpyuPX9ePd+ZCAfDR1lErH58N3PHwf7uvqa6p0YrgMVRfH8rHB6vLe59v31fio303ewEMzMBHaTkfBIby6T6qqvqQHAStD6nunb8Mjd7eeN5djWenx7uv9gYTATDQW6PHU1Fb01VSxBISSDggfn9N9gPRsMDn64KMYX5/bery/Ph+PTw0uxmUR0tqWyAicYC06hgMVpTudACQUnJsNL8ejl6UFqI7G1kUinVvrb2hCSRcH9QkibBdcTKQiCfC0+QIHOnq7Z2cneQO9gi7e2qpqwcTjNYRSHAg4hGTOuc54aDN9AENTe1el74VI1p6I5BUG2YBTFiYyokIyA07wF13lRX0t0aBLHVzocnKTQvCjY7aLdQdA8YEWKk2AMPAq1O2leZiVFcTptomgTJdHh5FUHTnOAFZ+bdf5RX0uyazSvCKqmaE7RoXGySnESIyoUJ1GcZLQ+eKD8Vw0er6umlpFUm6iIdkdFdbWvrlZ2OAEnsZIdBUwZQuhDnVVVrKzeN9GhiXaNFeTFVs9Cu3fe766rrCIZgWSE5xY9zxSCIJSgbILCKXZOdjCiKsnqu1b3XKsn4nfPuxtZUS5HiFKTnp4aDAaavz8jJ9sV1wtJc6qaa7KjZazDH/G9GnW/ojih1IqWmqz/AObGcOEJEQW4AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEaElEQVR4nJ1W/09bVRR/Y/+BtF3WJy0tXTWlX7RroWaza3mlG23t2GjYbAt2TpkOVs2iYvwyLRiXmSwuhEYgYbGRFZ2JY7JhVFwlAqmBzaGZWdACK7JlSuIvJhpdcsy5r3225fW18YcP3PSe8/n0np5z74cSiSo3icWiCrG4skIkYlG4puUKVY2+7rltdUxcY/XO6xpalhG4VtczcYXWFJbKq1XZPOSTSFhkuRGVlfdtonCxZYt4Mx+UGr1Ls9OdMDa1gdFVGtpd3oRcXdvE5ks28OEX4AQlkhxslUp1Vs9EOSJ80Fk9E1vp+6W5vJwgliB3g5YrDTrGly5GZul6EWyD/WAb6If6oy8UFTU0tqarFCqDoCCKGZwH13lJ3G1gHx4A980p8GSAa9tgtLio8+C6rEZNRDMaOSXFMgqcbFe0jxMqhPXMu8XLy/jS0ioZzQmyJ5RsFvrNzKFj4P7xa0Luuj4JzEfvA3M+Bq6FSfakNxJgDh4tKqrZ6bqcaSJWUKkxuISawDYUJcSOsXNgOtDBfW56/Ag4xkfJHlZAiEPGdi9bUtL6AsG7p8fBPhRlf8eWIJjcbRDrC8DkBwEwutvBfnYAdifGhDvX5k2QkuJQC86ZNwTMZx/Cka4gDJ4OwO2EH3pPBOCfq374I+mHA08G4cRrQXBcjBNxo4AoLVfUUDX6urBQECnh0Cl4pzcIf8/74d5VPxFD3MuIjvQHwHT6Ldi+/7CgoFJnDlN4XQkOcvMh0L7XA7GRw5xIriD+vxBrB21/BIx7Q4KCDz7SGKc0Vu9cqZtDe+YN6LsYLio4PN5JYkry2JrnKK29ZalUoL77OLTEXikq+MTIy6B/6XhJQT3jW6J0DaUFH95/CLTRHvh8smOD4EziKdBGIySmLMFSJcWBbvx0FJjZMbAM98Kf062c4F8zrfDo2R5omB2DxvFRMAeeFR4N+745Si3QNOb2Tui6NgW9qesEkR9mYH32JPyeZIHryPcz3H7ntSmSU4xPXe84RylqTfxj4WkH55ULML2ahtXbv5WFb1bTJAdz+Tira7eHKSkOPs/mjtcj5MoaXVksWxBjMQdzN3A2tYFMqVKRqw1f6sIA5uMYST6ZWsgjTa3cge9uLBOkbt3J23s7tUByMHfDDO5wXeFeC7xYCwOcX31CkjsWv80jvfXLr7C4tEaA69y9pxeTJAdzC/lUtQ+5Mpe3KPs8XeY74WM3p+Dntbsly/nT2l0S68ETns8/odrivIQaGU/DCqIHQVvAdWjoGOxJThCCL9MrJQW/SC+T2D3JCTCHuv4bBcaXpqtkGX8jqqDwT9ZhoQfJsxh7Q2B5vhvc3W/CM6+eEgTGYCy+Ltl85Kre9oChwLWJ8kwUehAhq1EudIwvnRXLM1F8NpGuktFoC/6vmNrivETLOB/DL8gH7F58qcsSamJbP9ONvHxEEO03zkfWmrMQ45fgQMurVfh44numtTXP4yWM0Nn3zavrHXG8QXCos/FZjkJO/Pn+BSiCkwowv4DPAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAACX0lEQVR4nO3TS0hUcRzF8aPdghAulFhUpJKYY9a2btkkBQUDvXxU6KJNizYuIqWsLLUWgTVqk+ueJAUGEbNq2aaMQp0sDaIi3yPVOGr55Bu3WyTUprkWLWZx1h/O73/+AvQvozhI/KTM1Wii0SQiw6aTEZPIqElkzCTy2STyxcnwuMnIhMnYpMn4lMnUjMkMJpD052BGxhGUaKHFFsq20DYLlVio1EIVFqq0WHDOwtNoUdJsEXhk0dKTy9AYzBCKBSxECUKLhLKFtgoVC5UKVQidEvPPiqzLoqRZNLWLV0MG4VE3oISShdYK5QkVCR0UOuaARo1IbxDbb4iXYdE1ZDAYO1jggKuF1qWivGpUtAMdECqzwRSMmmrSG4rJbhT3OkVn2GBgBKZn3DRcYzf0oi2gQj/a/wPMYV4NpNYH8TSKOx3iRdig3zVov1+OF3lBBX60bxZYDSvrgmQFxO3noiNs0Bd1C3rslr8HE6tgRV2QzIBoConQoEFvFKZcgVl2Sy/aDMr3O8OZBS73B8kIiFsh0T5g0DM8V2AuaK8fFX4HKx1w2cUgqy6Jm+2itd+gexgmp92A9ko9XrTpVzChCpZeDH77GtfbxLM+g/cRt2Cm3dKLNoL2+FHBLPAMLLkQJK1BXGsTT/sM3n2CCVdght3SiyzQbj/KFzr6E0ypDZJaL660iie9Bm8/ugVT7JZetAG0y+98/HJnNDaYXOus9PxD8bjb4I0NTsUEnkDyoYU+lFaO1tsN76JDPlTmQycPo9M22ELeVR/HH/i437WT1x9gPBbwL0VxkPhJ+c9H8xUWDlEN69hJgQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
