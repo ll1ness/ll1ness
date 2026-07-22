@@ -28,6 +28,8 @@
 </div>
 
 <div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ll1ness/ll1ness/output/github-contribution-grid-snake-dark.svg)
 
 <img src="readme-assets/latte.png" alt="dispatcher" width="500" />
 
