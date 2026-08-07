@@ -1,3 +1,5 @@
+<img width="1185" height="413" alt="ll1ness's website banner" src="https://github.com/user-attachments/assets/48a10aea-d04c-4cfa-b333-05c8832b32c0" />
+
 <div align="center" href="https://github.com/ll1ness">
   <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
