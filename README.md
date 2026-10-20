@@ -34,7 +34,7 @@
 <img src="readme-assets/latte.png" alt="dispatcher" width="500" />
 
 ### Soft skills
-🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository, where in README.md The 'Solo Development' widget is marked.
+🎨 Good at being creative with code. This means that I creatively come up with a system for the algorithm of the code, its competent writing and other things. You can check this by reviewing the program sources from the repository.
 
 👥 Work well in a team. This means that I am able to express my thoughts competently and negotiate with the development participants.
 
