@@ -23,6 +23,7 @@
   | _[**Spark Studio**](https://github.com/ll1ness/spark-studio) - Open-source project for create simple desktop applications on JavaFX, JPHP, based on [DevelNext](http://develnext.org/)._ |
   |_[**Weather Seeker**](https://weather-seeker.vercel.app/) - Open-source powerful web-application for see current weather status._|
   |_[**ll1ness**](https://ll1ness.vercel.app) - Open-source website for my portfolio and description._|
+  |_[**Solar System Map**](https://ll1ness.is-a.dev/solar-system-map) - Open-source solar system map with high-resolution models by AlbaSpace._|
   
 </details>   
 </div>
