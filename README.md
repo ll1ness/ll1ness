@@ -1,3 +1,6 @@
+>[!WARNING]
+> At the moment, I’m not working on any coding projects. I have no desire to work on projects that no one needs. I don’t know how to promote my projects, and besides, maintaining and updating software code and databases while also regularly checking that everything is  running correctly is a huge hassle when you’re doing it all alone. So, if anyone would like to join [@quantora-dev](https://github.com/quantora-dev), please reach out to me on Telegram: [@ll1ness](https://t.me/ll1ness).
+
 <div align="center" href="https://github.com/ll1ness">
   <img width="45%" href="https://github.com/ll1ness" src="metrics-activity.svg" /> <img width="45%" href="https://github.com/ll1ness" src="metrics-community.svg" />
 </div>
